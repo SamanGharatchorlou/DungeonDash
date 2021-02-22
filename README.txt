@@ -1,5 +1,5 @@
-Dungeon Dash
+Dungeon Dash (Windows Only)
 
 Download the 'DungeonDash Installer' to install and play the game.
 
-The RougeLike repo contains the source code for this game.
+Note that Window defender might tell you the game is dangeous, it's ok I promise. The RougeLike repo contains all the source code for this game.
